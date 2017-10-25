@@ -7,7 +7,7 @@
 #'
 #' @examples
 #'
-#' # Here's my example
+#' # Here's my example for praise
 praise <- function(){
-  "you're the best, Samithree!"
+  "you're  Samithree!"
 }
